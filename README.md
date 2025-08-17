@@ -28,9 +28,13 @@ Augmented balanced dataset:
 <img width="740" height="411" alt="image" src="https://github.com/user-attachments/assets/bc155d91-0278-43f9-8314-e9e85780183d" />
 
 **🧠 Model Overview**
+
 1.Random Forest Classifier
+
 2.AdaBoost Classifier
+
 3.Isolation forest to flag and filter out anomalies and then the Random Forest Classifier in use
+
 4.Isolation forest to flag and filter out anomalies and then the XGBoost Classifier in use
 
 **🔬Model Comparison**
