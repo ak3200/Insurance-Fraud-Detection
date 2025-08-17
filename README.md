@@ -13,9 +13,12 @@ This also involves taking on multiple different approaches to maximize accuracy 
 The objective is to develop a machine learning system to identify potential  fraudulent claims helping minimize financial losses and  reduce manual investigation efforts.
 
 **📊 Data Overview & EDA**
+
 Initial dataset:
 1000 entries, 0 to 999
+
 Data columns (total 39 columns)(features)
+
 Augmented balanced dataset:
 1336 entries
 39 data columns
