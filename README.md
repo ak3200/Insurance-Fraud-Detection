@@ -1,14 +1,15 @@
 **INSURANCE FRAUD DETECTION**
 
 🚀 **Project Overview**
-*The Coalition Against Insurance Fraud estimates that insurance fraud costs businesses and consumers approximately $308.6 billion annually.
+The Coalition Against Insurance Fraud estimates that insurance fraud costs businesses and consumers approximately $308.6 billion annually.
 
-*The FBI estimates that insurance fraud costs the average U.S. family between $400 and $700 per year in increased premiums.
+The FBI estimates that insurance fraud costs the average U.S. family between $400 and $700 per year in increased premiums.
 
 Manual fraud detection methods are becoming increasingly inefficient and time consuming, this system uses machine learning to automate the fraud detection process. 
 This also involves taking on multiple different approaches to maximize accuracy and making the model robust enabling it to perform well on imbalanced datasets and elicit unbiased predictions.
 
 ✅ **Objectives**
+
 The objective is to develop a machine learning system to identify potential  fraudulent claims helping minimize financial losses and  reduce manual investigation efforts.
 
 **📊 Data Overview & EDA**
